@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TouchApp</string>
+    <string name="model">Model</string>
+    <string name="view">View</string>
+    <string name="viewModel">ViewModel</string>
+    <string name="clear">クリア</string>
+    <string name="mvvm">Google推奨 MVVMアーキテクチャ</string>
+</resources>
